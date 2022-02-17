@@ -7,7 +7,7 @@ Please cite the related paper when you use this resource as follows:
 
 Harvard:
 ```
-**Idrees, S.; Hassani, H. Exploiting Script Similarities to Compensate for the Large Amount of Data in Training Tesseract LSTM: Towards Kurdish OCR. Appl. Sci. 2021, 11, 9752. https://doi.org/10.3390/app11209752**
+Idrees, S.; Hassani, H. Exploiting Script Similarities to Compensate for the Large Amount of Data in Training Tesseract LSTM: Towards Kurdish OCR. Appl. Sci. 2021, 11, 9752. https://doi.org/10.3390/app11209752
 
 ```
 bibtex:
