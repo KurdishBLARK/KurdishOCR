@@ -13,13 +13,13 @@ Idrees, S.; Hassani, H. Exploiting Script Similarities to Compensate for the Lar
 bibtex:
 ```
 @article{idrees2021exploiting,
-  title={Exploiting Script Similarities to Compensate for the Large Amount of Data in Training Tesseract LSTM: Towards Kurdish OCR},
+  title={{Exploiting Script Similarities to Compensate for the Large Amount of Data in Training Tesseract LSTM: Towards Kurdish OCR}},
   author={Idrees, Saman and Hassani, Hossein},
   journal={Applied Sciences},
   volume={11},
   number={20},
   pages={9752},
   year={2021},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  publisher={{Multidisciplinary Digital Publishing Institute}}
 }
 ```
